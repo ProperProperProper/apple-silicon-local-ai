@@ -1,0 +1,2 @@
+{"prompt": "How do you inspect a local network rack device?", "completion": "Examine the status LEDs, identify demarcation points such as Openreach NTUs, read front-panel serial and IP labels, and check patch panel cabling mappings."}
+{"prompt": "What acceleration backend is used for local AI on Apple Silicon?", "completion": "Metal Performance Shaders (MPS) in PyTorch and native Metal frameworks in Apple MLX provide hardware acceleration over Unified Memory."}
